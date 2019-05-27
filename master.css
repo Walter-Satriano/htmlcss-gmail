@@ -1,0 +1,68 @@
+body{
+    background-image: url("immagini/woodtexture.png");
+    background-size: cover;
+}
+
+#blocco {
+    width: 70%;
+    margin: auto;
+}
+/*ridimensionamento immagine e posizionamento*/
+.logogmail{
+    width: 140px;
+    height: auto;
+    margin-top: 20px;
+}
+
+/*posizionamento scritta rispetto al logo*/
+#scrittagmail{
+    color: white;
+    display: inline;
+}
+
+
+.lineabianca{
+    color: white;
+    background: white;
+    border: 0;
+    height: 2px;
+}
+
+h1 {
+  color: white;
+}
+
+#numerotrenta{
+    border-radius: 50%;
+    background-color: rgba(255, 177, 0, 0.8)
+}
+
+/*non sono riuscito ad eliminare la sovrapposizione dei bordi dei riquadri*/
+.boxgrigio{
+    border: solid; 1px;
+    height: 20px;
+    background-color: lightgrey;
+    font-family: verdana;
+    font-size: 14px;
+    padding: 2px;
+}
+
+.boxbianco{
+    border: solid; 1px;
+    height: 20px;
+    background-color: white;
+    font-family: verdana;
+    font-size: 14px;
+    padding: 2px;
+}
+
+h2{
+    font-family: serif;
+    color: white;
+    font-size: 30px;
+    text-align: center;
+}
+
+#powered{
+  font-size: 20px;
+}
